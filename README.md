@@ -1,6 +1,6 @@
 # Student app demo.
 
-<img src="https://user-images.githubusercontent.com/72754835/235682342-48514a1c-501a-4398-8c1f-61f3f2f543dd.png" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/72754835/235682342-48514a1c-501a-4398-8c1f-61f3f2f543dd.png" width="auto">
 <img src="https://user-images.githubusercontent.com/72754835/235682342-48514a1c-501a-4398-8c1f-61f3f2f543dd.png" width="200" height="300">
 <img src="https://user-images.githubusercontent.com/72754835/235682333-628cd159-899e-4c1e-9c6e-80d61a264360.png" width="200" height="300">
 <img src="https://user-images.githubusercontent.com/72754835/235682335-20a5a8e4-d59e-497a-815e-322fa520ae0f.png" width="200" height="300">
