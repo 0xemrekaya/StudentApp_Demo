@@ -1,6 +1,6 @@
 # app
 
-A new Flutter project.
+Student App Demo.
 
 ## Getting Started
 
